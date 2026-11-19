@@ -9,7 +9,7 @@
     {
       "name": "soclever-mcp",
       "source": "./",
-      "description": "Connects Claude Code to your soclever account, so it can turn your own files into private courses."
+      "description": "Your AI knows where you can level up. soclever turns what you work on, read and ask about into bite-size lessons, so the gaps actually get filled."
     }
   ]
 }

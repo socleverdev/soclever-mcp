@@ -1,14 +1,27 @@
 {
   "name": "soclever-mcp",
   "displayName": "soclever",
-  "version": "0.1.0",
-  "description": "Connects Claude Code to your soclever account, so it can turn your own files into private courses. You sign in with your soclever account.",
+  "version": "0.1.1",
+  "description": "Your AI knows where you can level up. soclever turns what you work on, read and ask about into bite-size lessons, so the gaps actually get filled.",
   "author": {
     "name": "soclever",
-    "url": "https://soclever.io"
+    "url": "https://soclever.io",
+    "email": "hello@soclever.io"
   },
   "homepage": "https://soclever.io/connect",
+  "repository": "https://github.com/socleverdev/soclever-mcp",
   "license": "MIT",
-  "keywords": ["soclever", "learning", "courses", "mcp"],
-  "privacyPolicyUrl": "https://soclever.io/privacy"
+  "keywords": [
+    "soclever",
+    "learning",
+    "courses",
+    "education",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://soclever.io/connect",
+  "supportUrl": "https://soclever.io/support",
+  "privacyPolicyUrl": "https://soclever.io/privacy",
+  "termsOfServiceUrl": "https://soclever.io/terms"
 }

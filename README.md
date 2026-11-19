@@ -1,6 +1,16 @@
-# soclever connector
+# soclever
 
-Connect your AI assistant to [soclever](https://soclever.io) and turn your own material into a private course.
+<img src="logo.png" alt="soclever logo" width="96">
+
+Your AI knows where you can level up. [soclever](https://soclever.io) turns what you work on, read and ask about into bite-size lessons, so the gaps actually get filled.
+
+Things to ask your assistant once it's connected:
+
+- Every day, teach me the most talked-about news story.
+- Turn my unread tabs into lessons.
+- Prep me for my next meeting with a short course.
+
+You see the plan first; nothing is made until you say yes. Courses stay private in your soclever library until you share one.
 
 This repository holds setup instructions and a small Claude Code plugin. It is **not** an open-source server: the connection itself is a hosted soclever service, and the app behind it is private. The plugin only tells Claude Code where the connection is. You sign in with your soclever account; there is no key to copy.
 
@@ -51,6 +61,7 @@ Claude Code may ask you to allow soclever's tools and the commands that upload y
 - **Original files or text only.** A course is complete when your original files are uploaded. If an upload fails and only the text is sent, the course is made from that text alone: layout, pictures, scanned pages and recording detail are left out.
 - **Daily limit.** New courses started through an assistant count toward a daily limit, and what you can make follows your soclever plan. The connection check shows how many you have left today.
 - **What soclever sees.** soclever never connects to your email or Slack. It only receives what your assistant sends to make a course.
+- **Where your files go.** Your assistant sends requests to soclever.io. Files upload to soclever's own file storage, at a separate upload address that works for a short time and only for that file. Nothing is sent anywhere else.
 
 ## Disconnect
 
