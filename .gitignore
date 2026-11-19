@@ -1,0 +1,13 @@
+# Never commit keys or local settings
+.env
+.env.*
+*.pem
+*.key
+.claude/settings.local.json
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

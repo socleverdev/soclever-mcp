@@ -1,0 +1,15 @@
+{
+  "name": "soclever",
+  "description": "The soclever connector for Claude Code.",
+  "owner": {
+    "name": "soclever",
+    "url": "https://soclever.io"
+  },
+  "plugins": [
+    {
+      "name": "soclever-mcp",
+      "source": "./",
+      "description": "Connects Claude Code to your soclever account, so it can turn your own files into private courses."
+    }
+  ]
+}

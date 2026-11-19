@@ -1,0 +1,14 @@
+{
+  "name": "soclever-mcp",
+  "displayName": "soclever",
+  "version": "0.1.0",
+  "description": "Connects Claude Code to your soclever account, so it can turn your own files into private courses. You sign in with your soclever account.",
+  "author": {
+    "name": "soclever",
+    "url": "https://soclever.io"
+  },
+  "homepage": "https://soclever.io/connect",
+  "license": "MIT",
+  "keywords": ["soclever", "learning", "courses", "mcp"],
+  "privacyPolicyUrl": "https://soclever.io/privacy"
+}
