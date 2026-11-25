@@ -1,0 +1,24 @@
+{
+  "name": "soclever-mcp",
+  "displayName": "soclever",
+  "version": "0.1.1",
+  "description": "Your AI knows where you can level up. soclever turns what you work on, read and ask about into bite-size lessons, so the gaps actually get filled.",
+  "author": {
+    "name": "soclever",
+    "url": "https://soclever.io",
+    "email": "hello@soclever.io"
+  },
+  "homepage": "https://soclever.io/connect",
+  "repository": "https://github.com/socleverdev/soclever-mcp",
+  "license": "MIT",
+  "keywords": [
+    "courses",
+    "education",
+    "learning",
+    "lessons",
+    "mcp",
+    "productivity",
+    "soclever"
+  ],
+  "logo": "logo.png"
+}
